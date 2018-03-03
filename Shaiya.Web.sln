@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Web", "Shaiya.Web\Shaiya.Web.csproj", "{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Data", "Shaiya.Data\Shaiya.Data.csproj", "{590E2130-03AB-42A1-A992-4E69572976B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590E2130-03AB-42A1-A992-4E69572976B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590E2130-03AB-42A1-A992-4E69572976B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590E2130-03AB-42A1-A992-4E69572976B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590E2130-03AB-42A1-A992-4E69572976B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
