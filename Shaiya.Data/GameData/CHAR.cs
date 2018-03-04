@@ -7,7 +7,7 @@ namespace Shaiya.Data.GameData
     using System.Data.Entity.Spatial;
 
     [Table("CHARS")]
-    public partial class Character
+    public partial class CHAR
     {
         [Key]
         [Column(Order = 0)]
