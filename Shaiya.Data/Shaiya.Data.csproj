@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GameData\BanChar.cs" />
-    <Compile Include="GameData\Character.cs" />
+    <Compile Include="GameData\CHAR.cs" />
     <Compile Include="GameData\CharApplySkill.cs" />
     <Compile Include="GameData\CharEvent.cs" />
     <Compile Include="GameData\CharItem.cs" />

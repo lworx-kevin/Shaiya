@@ -17,7 +17,7 @@ namespace Shaiya.Data.GameData
         public virtual DbSet<CharItem> CharItems { get; set; }
         public virtual DbSet<CharQuest> CharQuests { get; set; }
         public virtual DbSet<CharQuickSlot> CharQuickSlots { get; set; }
-        public virtual DbSet<Character> CHARS { get; set; }
+        public virtual DbSet<CHAR> CHARS { get; set; }
         public virtual DbSet<CharSavePoint> CharSavePoints { get; set; }
         public virtual DbSet<CharSkill> CharSkills { get; set; }
         public virtual DbSet<dtproperty> dtproperties { get; set; }

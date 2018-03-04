@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Web", "Shaiya.Web\Shaiya.Web.csproj", "{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shaiya.Web", "Shaiya.Web\Shaiya.Web.csproj", "{3640AB4A-9F41-495A-9530-5302EF28317D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Data", "Shaiya.Data\Shaiya.Data.csproj", "{590E2130-03AB-42A1-A992-4E69572976B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shaiya.Access", "Shaiya.Access\Shaiya.Access.csproj", "{B349C0A0-6D13-4908-900A-392CDE7E277C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7767C4F2-468A-4FB3-8536-DAFDE1BEA445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3640AB4A-9F41-495A-9530-5302EF28317D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3640AB4A-9F41-495A-9530-5302EF28317D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3640AB4A-9F41-495A-9530-5302EF28317D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3640AB4A-9F41-495A-9530-5302EF28317D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{590E2130-03AB-42A1-A992-4E69572976B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{590E2130-03AB-42A1-A992-4E69572976B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590E2130-03AB-42A1-A992-4E69572976B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590E2130-03AB-42A1-A992-4E69572976B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B349C0A0-6D13-4908-900A-392CDE7E277C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B349C0A0-6D13-4908-900A-392CDE7E277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B349C0A0-6D13-4908-900A-392CDE7E277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B349C0A0-6D13-4908-900A-392CDE7E277C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
